@@ -1,0 +1,22 @@
+.panel-body{
+    position: relative;
+}
+#first-div{
+
+
+    background: green;
+}
+#second-div{
+    position: absolute;
+    background: yellow;
+    width: 100%;
+
+}
+#third-div{
+    position: absolute;
+    background: black;
+    width: 100%;
+}
+.picture{
+
+}
